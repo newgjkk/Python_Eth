@@ -1,4 +1,4 @@
-# Walmart Data Analysis: End-to-End SQL + Python Project P-9
+#  Ethereum Market Analysis Project
 ## Project Overview
 
 **Project Title**: Ethereum Market Project  
