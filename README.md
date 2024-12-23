@@ -5,7 +5,7 @@
 **Database**: `Ethereum Historical Data`
 
 This project focuses on analyzing Ethereum market data using Python, exploring price and volume fluctuations. It includes data extraction, processing, and visualization to identify significant events and patterns. The objective is to uncover actionable insights into market behavior through detailed data analysis.
-![](https://github.com/newgjkk/Python_Eth/blob/main/eth.jpg)
+![](https://github.com/newgjkk/Python_Eth/blob/main/eth_pj_picture.jpg)
 
 ## Objectives
 
